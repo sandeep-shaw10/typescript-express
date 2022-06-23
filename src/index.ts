@@ -1,10 +1,8 @@
 import express, { Request, Response, json, NextFunction } from 'express'
 
 
-
 const port = 3000
 const app = express()
-
 
 
 // Add Middleware Function
